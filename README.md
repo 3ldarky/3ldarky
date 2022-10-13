@@ -5,8 +5,8 @@
 
 
 <div float="left">
-<img height="42%" src="https://github-readme-stats.vercel.app/api?username=3ldarky&show_icons=true&theme=dark"/>
-<img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ldarky&layout=compact&theme=dark"/>
+<img height=45%" src="https://github-readme-stats.vercel.app/api?username=3ldarky&show_icons=true&theme=dark"/>
+<img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ldarky&layout=compact&theme=dark"/>
 </div>
 
 
