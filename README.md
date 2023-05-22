@@ -35,7 +35,7 @@
 <table>
 <tr>
   <td><img width=500px src="https://avatars.githubusercontent.com/u/87040427?v=4https://avatars.githubusercontent.com/u/87040427?v=4"/></td>
-  <td>Um garoto de 18 anos que está trabalhando para ser o melhor dev full stack , atualmente estudando com o front-end e UX design, o que mais faz enquanto não mexe com nada disso e jogar jogos (FPS, Moba e RPG), gosta de assistir animes, series e filmes além de amar praticamente qualquer tipo música.</td>
+  <td>Um jovem de 18 anos está empenhado em se tornar um desenvolvedor full stack de destaque. Atualmente, ele está focado em aprimorar suas habilidades no front-end e design de UX, dedicando-se aos estudos nesses campos. Ele busca constantemente se atualizar sobre as últimas tendências e melhores práticas de programação, sempre em busca de excelência em seu trabalho. Além disso, ele é um entusiasta de tecnologia e está sempre buscando aprender novas linguagens de programação e frameworks. Com uma combinação de dedicação, estudo e prática, ele está determinado a se tornar o melhor desenvolvedor full stack possível e construir uma carreira de sucesso nessa área em constante evolução.</td>
 </table>
 </div>
 
